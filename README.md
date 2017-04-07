@@ -1,2 +1,1 @@
-# AishwaryJohri.github.io
-AishwaryJohri
+Aishwary Johri
